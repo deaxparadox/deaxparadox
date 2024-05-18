@@ -1,3 +1,33 @@
+
+# :microphone: About Me 
+
+Enthusiastic and detail-oriented software developer with a strong interest in **backend development** and **data science**. Proficient in various programming languages and frameworks essential for backend development, and in data analysis and machine learning. Adept at designing and implementing robust server-side logic, optimizing database queries, and analyzing data to derive actionable insights.
+
+:e-mail: How to reach me: [nitish136900kushwaha@gmail.com](nitish136900kushwaha@gmail.com)
+
+## Projects :grey_question:
+
+### :diamond_shape_with_a_dot_inside: URL Shortener 
+
+During an academic session, our team collaborated on building a URL shortener project using Django, GraphQL, and REST API. The goal was to create a robust and efficient application that shortens long URLs while providing insightful analytics on link usage.
+
+**Project Summary: URL Shortener Development**
+
+During an academic session, our team collaborated on building a URL shortener project using Django, GraphQL, and REST API. The goal was to create a robust and efficient application that shortens long URLs while providing insightful analytics on link usage.
+
+**Key Contributions:**
+
+- **Backend Development:** Utilized Django to create a reliable and scalable backend, ensuring seamless management of URL data.
+- **API Integration:** Implemented both GraphQL and REST API to facilitate flexible and efficient querying of data, enhancing the application's performance and user experience.
+- **Team Collaboration:** Worked closely with team members, dividing tasks effectively to maximize productivity and ensure timely completion of project milestones.
+- **Feature Implementation:** Developed key features such as URL creation, redirection, and analytics tracking, ensuring a user-friendly interface and comprehensive functionality.
+- **Testing and Deployment:** Conducted thorough testing to identify and fix bugs, and deployed the application in a cloud environment to ensure accessibility and reliability.
+
+This project not only enhanced our technical skills in Django, GraphQL, and REST API but also reinforced the importance of teamwork and effective project management in software development.
+
+
+
+
 ## Languages and Tools 
 
 ### Languages:
