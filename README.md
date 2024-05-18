@@ -11,10 +11,6 @@ Enthusiastic and detail-oriented software developer with a strong interest in **
 
 During an academic session, our team collaborated on building a URL shortener project using Django, GraphQL, and REST API. The goal was to create a robust and efficient application that shortens long URLs while providing insightful analytics on link usage.
 
-**Project Summary: URL Shortener Development**
-
-During an academic session, our team collaborated on building a URL shortener project using Django, GraphQL, and REST API. The goal was to create a robust and efficient application that shortens long URLs while providing insightful analytics on link usage.
-
 **Key Contributions:**
 
 - **Backend Development:** Utilized Django to create a reliable and scalable backend, ensuring seamless management of URL data.
