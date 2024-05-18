@@ -40,4 +40,4 @@
 
 | Django | FastAPI | DRF |
 |--------|---------|-----|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-line.svg" title="Linux" alt="Linux" width="55" height="55"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-line.svg" style="background-color: white" title="Linux" alt="Linux" width="55" height="55"/> |
