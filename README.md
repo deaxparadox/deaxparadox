@@ -1,13 +1,13 @@
 
 # :microphone: About Me 
 
-Enthusiastic and detail-oriented software developer with a strong interest in **backend development** and **data science**. Proficient in various programming languages and frameworks essential for backend development, and in data analysis and machine learning. Adept at designing and implementing robust server-side logic, optimizing database queries, and analyzing data to derive actionable insights.
+Enthusiastic and detail-oriented software developer with a strong interest in **Backend Development**, **Artificial Intelligence**, and **Machine Learning**. Proficient in various programming languages and frameworks essential for backend development, and in data analysis and machine learning. Adept at designing and implementing robust server-side logic, optimizing database queries, and analyzing data to derive actionable insights.
 
 :e-mail: How to reach me: [nitish136900kushwaha@gmail.com](nitish136900kushwaha@gmail.com)
 
 ## Projects :grey_question:
 
-### :diamond_shape_with_a_dot_inside: URL Shortener 
+### :diamond_shape_with_a_dot_inside: Blinkr 
 
 During an academic session, our team collaborated on building a URL shortener project using Django, GraphQL, and REST API. The goal was to create a robust and efficient application that shortens long URLs while providing insightful analytics on link usage.
 
@@ -21,7 +21,22 @@ During an academic session, our team collaborated on building a URL shortener pr
 
 This project not only enhanced our technical skills in Django, GraphQL, and REST API but also reinforced the importance of teamwork and effective project management in software development.
 
+### :diamond_shape_with_a_dot_inside: Express Web Localization 
 
+- Developed for the SGTU Hackathon 2024.
+- Leveraged Python libraries for natural language processing (NLP) and API integration.
+- Engineered customizable web integration solutions to meet the specific requirements of end-users and developers.
+- Utilized version control with Git for collaborative development.
+- Implemented unit testing to ensure code reliability and functionality.
+
+### :diamond_shape_with_a_dot_inside: Geture Gaurd 
+
+
+- Designed a Hand Sign Detector for the KRMU Hackathon 2024.
+- Leveraged expertise in computer vision using OpenCV and machine learning algorithms.
+- Facilitated non-verbal communication through advanced gesture recognition techniques.
+- Implemented model training and evaluation using googleteachable machines.
+- Applied image processing techniques to enhance detection accuracy.
 
 
 ## Languages and Tools 
