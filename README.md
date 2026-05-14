@@ -1,84 +1,143 @@
+<div align="center">
 
-# :microphone: About Me 
+# hey, I'm Nitish 👋
 
-Enthusiastic and detail-oriented software developer with a strong interest in **Backend Development**, **Artificial Intelligence**, and **Machine Learning**. Proficient in various programming languages and frameworks essential for backend development, and in data analysis and machine learning. Adept at designing and implementing robust server-side logic, optimizing database queries, and analyzing data to derive actionable insights.
+**Backend Engineer · AI Systems · Linux Enthusiast**
 
-:e-mail: How to reach me: [nitish136900kushwaha@gmail.com](nitish136900kushwaha@gmail.com)
+*I build APIs that talk to LLMs, voice agents that actually call people, and systems that run clean on Linux.*
 
-## Projects :grey_question:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-deaxparadox-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/deaxparadox)
+[![Email](https://img.shields.io/badge/Email-nitish000000kushwaha@gmail.com-EA4335?style=flat&logo=gmail)](mailto:nitish000000kushwaha@gmail.com)
 
-### :diamond_shape_with_a_dot_inside: Blinkr 
+</div>
 
-During an academic session, our team collaborated on building a URL shortener project using Django, GraphQL, and REST API. The goal was to create a robust and efficient application that shortens long URLs while providing insightful analytics on link usage.
+---
 
-**Key Contributions:**
+## 🧠 What I Do
 
-- **Backend Development:** Utilized Django to create a reliable and scalable backend, ensuring seamless management of URL data.
-- **API Integration:** Implemented both GraphQL and REST API to facilitate flexible and efficient querying of data, enhancing the application's performance and user experience.
-- **Team Collaboration:** Worked closely with team members, dividing tasks effectively to maximize productivity and ensure timely completion of project milestones.
-- **Feature Implementation:** Developed key features such as URL creation, redirection, and analytics tracking, ensuring a user-friendly interface and comprehensive functionality.
-- **Testing and Deployment:** Conducted thorough testing to identify and fix bugs, and deployed the application in a cloud environment to ensure accessibility and reliability.
+```python
+class Nitish:
+    role       = "Backend Python Developer"
+    focus      = ["AI Agents", "Voice Systems", "REST APIs", "Cloud Infra"]
+    stack      = ["Python", "Django", "FastAPI", "LangGraph", "Docker"]
+    os         = "Ubuntu"  # windows is for visitors
+    currently  = "Building smarter AI-powered backend systems"
+```
 
-This project not only enhanced our technical skills in Django, GraphQL, and REST API but also reinforced the importance of teamwork and effective project management in software development.
+---
 
-### :diamond_shape_with_a_dot_inside: Express Web Localization 
+## 🚀 Featured Projects
 
-- Developed for the SGTU Hackathon 2024.
-- Leveraged Python libraries for natural language processing (NLP) and API integration.
-- Engineered customizable web integration solutions to meet the specific requirements of end-users and developers.
-- Utilized version control with Git for collaborative development.
-- Implemented unit testing to ensure code reliability and functionality.
+### 🎙️ [Vgents](https://github.com/deaxparadox/vgents)
+> Real-time voice agent platform with multi-persona support
 
-### :diamond_shape_with_a_dot_inside: Geture Gaurd 
+Built with **FastAPI · LiveKit · Twilio (SIP) · PostgreSQL · Docker · Next.js**
 
+- Concurrent voice sessions with strict session isolation
+- Single-use token auth for secure agent access
+- WebSocket-based low-latency communication
 
-- Designed a Hand Sign Detector for the KRMU Hackathon 2024.
-- Leveraged expertise in computer vision using OpenCV and machine learning algorithms.
-- Facilitated non-verbal communication through advanced gesture recognition techniques.
-- Implemented model training and evaluation using googleteachable machines.
-- Applied image processing techniques to enhance detection accuracy.
+---
 
+### 🧬 [NeuroWrite](https://github.com/deaxparadox/neurowrite)
+> AI pipeline that reads medical PDFs and generates structured reports
 
-## Languages and Tools 
+Built with **Django · LangGraph · AWS Textract · OpenAI**
 
-### Languages:
-| Python3 | C | JS | Rust |
-|----------|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="JavaScript" width="55" height="55"  style='background-color:white'/> |  
+- Hybrid extraction — Textract for scanned PDFs, native parser for text-based
+- Specialized LangGraph agents per report type
+- Reduces manual processing time by ~60%
 
-  
+---
 
-### Best frameworks and main libraries for Python3:
+### 🤝 [Aounder](https://github.com/deaxparadox/aounder)
+> AI Co-Founder Assistant for startup ideation and mentorship
 
-| Pytorch | Selenium | Numpy | Pandas | Sklearn | Matplotlib | OpenCV |
-|----------|----------|----------|----------|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium"  alt="Selenium" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="mpl" alt="mpl" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="mpl" alt="mpl" width="55" height="55"/> |
+Built with **Django · Django Channels · LangGraph · Redis · Docker**
 
+- Modular agent architecture — router, mentor, and roadmap agents
+- Real-time WebSocket agent tracking via Redis
+- Uvicorn lifespan initialization cuts graph response latency significantly
 
+---
 
-### My tools for Data Manipulation:
+## 🛠️ Tech Stack
 
-| Jupyter | Postgres | SQLite |
-|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/>|
+**Backend**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
-  
-### Environments, Testing, Other:
+**AI & Agents**
 
-| Git | Docker | Pytest | Postman | Virtual Box|
-|----------|----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="pytest" alt="pytest" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Swagger" alt="Swagger" width="55" height="55"/> | <img src="https://banner2.cleanpng.com/20190501/xvt/kisspng-computer-icons-virtualbox-portable-network-graphic-virtualbox-icon-of-line-style-available-in-svg-5cca247f73f9e3.6112721115567514874751.jpg" title="Postman" alt="Postman" width="80" height="55"/>|
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![LiveKit](https://img.shields.io/badge/LiveKit-000000?style=flat)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=twilio&logoColor=white)
 
+**Databases**
 
-### OS: ❤️ (linux one love)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
-| Linux | Ubuntu | Kali |
-|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="55" height="55"/> |
+**DevOps & Cloud**
 
-### Backend Development Frameworks
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
-| Django | FastAPI | DRF |
-|--------|---------|-----|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-line.svg" style="color: white" title="Linux" alt="Linux" width="55" height="55"/> |
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+
+---
+
+## 📈 Currently Learning
+
+- **DSA** — sharpening problem solving for competitive challenges
+- **Kubernetes** — next step after Docker Compose
+- **ML (fresh start)** — coming back to it with a stronger engineering foundation
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Nitish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deaxparadox&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=deaxparadox&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deaxparadox&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🐧 OS of choice
+
+```bash
+$ neofetch
+OS: Ubuntu 22.04 LTS
+Shell: zsh
+Terminal: no going back
+```
+
+*yes the windows laptop exists. no it's not for dev.*
+
+---
+
+<div align="center">
+
+**3+ years on Linux · 1+ year professional · always shipping**
+
+</div>
