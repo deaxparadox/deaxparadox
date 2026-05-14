@@ -115,9 +115,7 @@ Built with **Django · Django Channels · LangGraph · Redis · Docker**
 
 ![Nitish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deaxparadox&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=deaxparadox&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deaxparadox&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deaxparadox&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
