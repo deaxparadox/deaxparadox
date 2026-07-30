@@ -53,11 +53,35 @@ AI construction-document analyzer — upload a structural PDF, get back extracte
 
 ## Stack
 
-**Backend** — Python · Django · FastAPI · Celery
-**AI / Agents** — LangGraph · LangChain · DSPy · OpenAI · Gemini
-**Voice** — LiveKit · Twilio · Deepgram · ElevenLabs
-**Data** — PostgreSQL · Redis · Pinecone
-**Infra** — Docker · AWS · Azure · Linux
+**Backend**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white)
+
+**AI / Agents**
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![DSPy](https://img.shields.io/badge/DSPy-4B32C3?style=flat)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
+
+**Voice**
+![LiveKit](https://img.shields.io/badge/LiveKit-000000?style=flat)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=twilio&logoColor=white)
+![Deepgram](https://img.shields.io/badge/Deepgram-13EF93?style=flat&logoColor=black)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat)
+
+**Data**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat)
+
+**Infra**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
