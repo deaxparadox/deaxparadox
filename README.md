@@ -1,137 +1,74 @@
 <div align="center">
 
-# hey, I'm Nitish 👋
+# Nitish Kushwaha
 
-**Backend Engineer · AI Systems · Linux Enthusiast**
-
-*I build APIs that talk to LLMs, voice agents that actually call people, and systems that run clean on Linux.*
+**Backend / AI Systems Engineer** — I build production backend systems and AI agents (voice, multi-agent, RAG) for real companies, mostly in Python.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-deaxparadox-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/deaxparadox)
 [![Email](https://img.shields.io/badge/Email-nitish000000kushwaha@gmail.com-EA4335?style=flat&logo=gmail)](mailto:nitish000000kushwaha@gmail.com)
+
+**12 production systems shipped in 2025–2026** — AI voice agents live in production, a 36,000-line solo-built career platform, a 12-agent SaaS, and more below.
 
 </div>
 
 ---
 
-## 🧠 What I Do
+## Featured Work
 
-```python
-class Nitish:
-    role       = "Backend Python Developer"
-    focus      = ["AI Agents", "Voice Systems", "REST APIs", "Cloud Infra"]
-    stack      = ["Python", "Django", "FastAPI", "LangGraph", "Docker"]
-    os         = "Ubuntu"  # windows is for visitors
-    currently  = "Building smarter AI-powered backend systems"
-```
+### 🎙️ [Staffmind](https://github.com/deaxparadox/staffmind-backend) · [frontend](https://github.com/deaxparadox/staffmind-frontend)
+Multi-tenant AI voice agent platform — **live in production, 54 real customer sessions.** Handles PSTN calls, appointment booking, Google Calendar/Gmail, and a browser-based executive agent with a live avatar.
+`FastAPI` `LiveKit` `GPT-4o Realtime` `Twilio` `Supabase`
 
----
+### 🧭 [HireIQ](https://github.com/deaxparadox/hireiq)
+AI career-discovery platform — **entire ~36,000-line backend built solo**: a deterministic ontology engine (15,000+ term mappings), a knowledge graph, two voice agents, and the only CI-gated AI-output eval harness in this portfolio.
+`FastAPI` `LangGraph` `Gemini 2.5` `LiveKit` `PostgreSQL`
 
-## 🚀 Featured Projects
+### 📊 [SellerPulse](https://github.com/deaxparadox/sellerpulse)
+12-agent Amazon FBA intelligence SaaS — account health monitoring, PPC budget control, dynamic repricing, review intelligence. 580+ commits across a large multi-agent architecture.
+`LangGraph` `DSPy` `MCP` `Celery` `PostgreSQL`
 
-### 🎙️ [Vgents](https://github.com/deaxparadox/vgents)
-> Real-time voice agent platform with multi-persona support
+### 🏗️ [StructureIQ](https://github.com/deaxparadox/structureiq)
+AI construction-document analyzer — upload a structural PDF, get back extracted hardware specs, lumber grades, and a branded report, powered by GPT-4o Vision.
+`FastAPI` `GPT-4o Vision` `Next.js` `Docker`
 
-Built with **FastAPI · LiveKit · Twilio (SIP) · PostgreSQL · Docker · Next.js**
+<details>
+<summary><b>More shipped work</b> (client engagements, rescues, and side builds)</summary>
 
-- Concurrent voice sessions with strict session isolation
-- Single-use token auth for secure agent access
-- WebSocket-based low-latency communication
+<br>
 
----
+| Project | What it is |
+|---|---|
+| [Vocalyst](https://github.com/deaxparadox/vocalyst) | Outbound sales voice AI — 3-day production rescue: diagnosed and fixed 9 audio-pipeline bugs under a demo deadline, later root-caused an EC2 CPU-capacity incident via log analysis |
+| [Deskmind](https://github.com/deaxparadox/deskmind-backend) | Microsoft 365 ops assistant — automated email triage, calendar extraction, and document RAG chat over Azure OpenAI |
+| [BuildConnect USA](https://github.com/deaxparadox/buildconnect-usa) | Verified professional network for construction — Postgres RLS as the entire security model, no API server |
+| [LexCall](https://github.com/deaxparadox/lexcall) | AI legal-intake phone system — ElevenLabs voice, Azure AD SSO |
+| [CourseForge](https://github.com/deaxparadox/courseforge) | AI course-creation assistant embedded in a WordPress iframe |
+| [Founder's Lab](https://github.com/deaxparadox/founders-lab) | Multi-agent AI co-founder — idea validation, roadmap generation |
+| [EcosystemAI](https://github.com/deaxparadox/ecosystemai) | Multi-agent business-automation SaaS (9 agent modules) |
+| [Vgents](https://github.com/deaxparadox/vgents-backend) · [frontend](https://github.com/deaxparadox/vgents-frontend) | Personal project — multi-persona LiveKit voice agent platform (13 personas, spanning fictional characters to practical business assistants) |
 
-### 🧬 [NeuroWrite](https://github.com/deaxparadox/neurowrite)
-> AI pipeline that reads medical PDFs and generates structured reports
-
-Built with **Django · LangGraph · AWS Textract · OpenAI**
-
-- Hybrid extraction — Textract for scanned PDFs, native parser for text-based
-- Specialized LangGraph agents per report type
-- Reduces manual processing time by ~60%
-
----
-
-### 🤝 [Aounder](https://github.com/deaxparadox/aounder)
-> AI Co-Founder Assistant for startup ideation and mentorship
-
-Built with **Django · Django Channels · LangGraph · Redis · Docker**
-
-- Modular agent architecture — router, mentor, and roadmap agents
-- Real-time WebSocket agent tracking via Redis
-- Uvicorn lifespan initialization cuts graph response latency significantly
+</details>
 
 ---
 
-## 🛠️ Tech Stack
+## Stack
 
-**Backend**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-
-**AI & Agents**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![LiveKit](https://img.shields.io/badge/LiveKit-000000?style=flat)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=twilio&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-
-**DevOps & Cloud**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+**Backend** — Python · Django · FastAPI · Celery
+**AI / Agents** — LangGraph · LangChain · DSPy · OpenAI · Gemini
+**Voice** — LiveKit · Twilio · Deepgram · ElevenLabs
+**Data** — PostgreSQL · Redis · Pinecone
+**Infra** — Docker · AWS · Azure · Linux
 
 ---
 
-## 📈 Currently Learning
+## Currently Learning
 
-- **DSA** — sharpening problem solving for competitive challenges
-- **Kubernetes** — next step after Docker Compose
-- **ML (fresh start)** — coming back to it with a stronger engineering foundation
-
----
-
-## 📊 GitHub Stats
-
-![Nitish's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=deaxparadox&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=deaxparadox&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
----
-
-## 🐧 OS of choice
-
-```bash
-$ neofetch
-OS: Ubuntu 22.04 LTS
-Shell: zsh
-Terminal: no going back
-```
-
-*yes the windows laptop exists. no it's not for dev.*
+DSA (competitive-level problem solving) · Kubernetes · sharpening ML fundamentals
 
 ---
 
 <div align="center">
 
-**3+ years on Linux · 1+ year professional · always shipping**
+*Ubuntu daily driver, 3+ years. Always shipping.*
 
 </div>
